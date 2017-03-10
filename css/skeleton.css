@@ -431,3 +431,9 @@ padding-right: 20px;
 .container {
     color: #404c5a;
 }
+
+p {
+    text-align: justify;
+    font-family: "lato-light";  
+    align-content: center;
+}
