@@ -437,3 +437,16 @@ p {
     font-family: "lato-light";  
     align-content: center;
 }
+
+.border {
+border-style: 3px solid;
+background-color: lightblue;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-top: 5px;
+    
+}
+.stats{
+    font-family: "lato-light";
+}
